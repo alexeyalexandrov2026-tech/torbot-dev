@@ -1,5 +1,8 @@
 ﻿# рџђЌ Gorgona One | Torbot Dev
 
+**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
+**РџСЂРѕРµРєС‚:** Gorgona One AI
+
 **Curated and optimized by Gorgona One.**  
 *This tool is part of the exclusive Gorgona One OSINT toolkit.*
 
