@@ -1,18 +1,18 @@
-﻿# рџђЌ Gorgona One | Torbot Dev
+# 🐍 Gorgona One | TorBot
 
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
-
-**РЎРѕР·РґР°С‚РµР»СЊ:** РђР»РµРєСЃРµР№ РђР»РµРєСЃР°РЅРґСЂРѕРІ
-**РџСЂРѕРµРєС‚:** Gorgona One AI
+**Создатель:** Алексей Александров  
+***Проект:** Gorgona One AI  
 
 **Curated and optimized by Gorgona One.**  
 *This tool is part of the exclusive Gorgona One OSINT toolkit.*
 
-## рџљЂ Overview
-Torbot Dev is a powerful OSINT utility included in the Gorgona One toolset.
+## 🚚 Описание (Overview)
+
+🇵🇷 Инструмент разведки на основе открытых источников (OSINT) для анализа теневой сети (Dark Web).
+🇵🇧 An Open Source Intelligence (OSINT) tool for analyzing the Dark Web.
 
 ---
+
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
 <br><br><br><br><br><br><br><br><br><br>
